@@ -8,6 +8,7 @@ Daily study notes for PostgreSQL and Greenplum.
 - `notes/YYYY/YYYY-MM-DD.md`: one note per day.
 - `docs/pg-gp-kernel-learning-roadmap.md`: long-term learning roadmap for PostgreSQL, Greenplum, and extension development.
 - `docs/homework-review-process.md`: rules for recording every homework review.
+- `docs/project-memory.md`: persistent project context and conversation summary for future Codex sessions.
 - `exercises/`: hands-on PostgreSQL and Greenplum learning exercises.
 - `reviews/`: homework reviews, corrections, and learning feedback.
 

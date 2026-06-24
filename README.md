@@ -6,6 +6,7 @@ Daily study notes for PostgreSQL and Greenplum.
 
 - `notes/`: daily study records.
 - `notes/YYYY/YYYY-MM-DD.md`: one note per day.
+- `docs/pg-gp-kernel-learning-roadmap.md`: long-term learning roadmap for PostgreSQL, Greenplum, and extension development.
 
 ## Suggested Daily Format
 
@@ -14,4 +15,3 @@ Daily study notes for PostgreSQL and Greenplum.
 - Commands or SQL tested
 - Questions to revisit
 - References
-

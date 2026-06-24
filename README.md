@@ -7,6 +7,7 @@ Daily study notes for PostgreSQL and Greenplum.
 - `notes/`: daily study records.
 - `notes/YYYY/YYYY-MM-DD.md`: one note per day.
 - `docs/pg-gp-kernel-learning-roadmap.md`: long-term learning roadmap for PostgreSQL, Greenplum, and extension development.
+- `docs/homework-review-process.md`: rules for recording every homework review.
 - `exercises/`: hands-on PostgreSQL and Greenplum learning exercises.
 - `reviews/`: homework reviews, corrections, and learning feedback.
 
@@ -16,6 +17,7 @@ Daily study notes for PostgreSQL and Greenplum.
 
 ## Reviews
 
+- `docs/homework-review-process.md`: 以后每次批改作业都必须记录批改结果。
 - `reviews/2026-06-24-explain-analyze-homework-review.md`: `EXPLAIN ANALYZE` 练习批改记录和后续建议。
 
 ## Suggested Daily Format
